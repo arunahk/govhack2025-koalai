@@ -1,0 +1,5 @@
+{
+  "name": "KoalAI Web",
+  "description": "Platform: Responsive Web Application (for initial development), with a view to native iOS and Android apps.\n\nCore Concept: A conversational AI assistant that provides a personalised, step-by-step roadmap for starting a business in Australia.\n\nInitial Business Case: Starting a coffee shop in Queensland.\n\nGuiding Framework: The application must be designed, developed, and operated in full compliance with the Australian Government AI technical standard  to ensure it is trustworthy, transparent, and secure.",
+  "requestFramePermissions": []
+}
